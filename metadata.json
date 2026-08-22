@@ -1,0 +1,6 @@
+{
+  "name": "Stock Demo Trading",
+  "description": "Indian stock market demo trading platform featuring real-time price tick simulation for Nifty 50, Sensex, and Bank Nifty, candlestick charts with technical indicators, demo credit/debit fund management, active trades, watchlist, and order history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
